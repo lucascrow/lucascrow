@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucascrow
-- 👀 I’m interested in design and animated development
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in data analysis and visualization
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any projects I can
 - 📫 My email is @25lucascrow@gmail.com & I am excited to learn 
 

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lucascrow
 - 👀 I’m interested in data analysis and visualization
-- 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on any projects I can
-- 📫 My email is @25lucascrow@gmail.com & I am excited to learn 
+- 💞️ I love collaborating sith others, so feel free to reach out
+- 📫 My email is @25lucascrow@gmail.com & my website is lucascrow.com 
 
 <!---
 lucascrow/lucascrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

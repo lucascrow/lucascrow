@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lucascrow
-- 👀 I’m interested in healthcare and data visualization
-- 🌱 Nature, art, and exploring are my favorite things to do
-- 💞️ I love collaborating with others, so feel free to reach out
+- 👀 I’m interested in cloud architecture, automation systems and data visualization
+- 🌱 I love collaborating with others, so feel free to reach out
 - 📫 My email is @25lucascrow@gmail.com & my website is lucascrow.com 
 
 <!---
